@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|c:\\users\\vygir\\source\\repos\\lab4_solid\\lab4_solid\\readermanagement\\readermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|solutionrelative:lab4_solid\\readermanagement\\readermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|c:\\users\\vygir\\source\\repos\\lab4_solid\\lab4_solid\\reportmanagement\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|solutionrelative:lab4_solid\\reportmanagement\\generatereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|c:\\users\\vygir\\source\\repos\\lab4_solid\\lab4_solid\\bookmanagement\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|solutionrelative:lab4_solid\\bookmanagement\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|c:\\users\\vygir\\source\\repos\\lab4_solid\\lab4_solid\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|solutionrelative:lab4_solid\\interface\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|c:\\users\\vygir\\source\\repos\\lab4_solid\\lab4_solid\\readermanagement\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|solutionrelative:lab4_solid\\readermanagement\\reader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|c:\\users\\vygir\\source\\repos\\lab4_solid\\lab4_solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|solutionrelative:lab4_solid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|c:\\users\\vygir\\source\\repos\\lab4_solid\\lab4_solid\\bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD1539-A000-49C2-BDE7-D203D9ED0F3B}|Lab4_SOLID\\Lab4_SOLID.csproj|solutionrelative:lab4_solid\\bookmanagement\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReaderManagement.cs",
+              "DocumentMoniker": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\ReaderManagement\\ReaderManagement.cs",
+              "RelativeDocumentMoniker": "Lab4_SOLID\\ReaderManagement\\ReaderManagement.cs",
+              "ToolTip": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\ReaderManagement\\ReaderManagement.cs",
+              "RelativeToolTip": "Lab4_SOLID\\ReaderManagement\\ReaderManagement.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:48:13.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenerateReport.cs",
+              "DocumentMoniker": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\ReportManagement\\GenerateReport.cs",
+              "RelativeDocumentMoniker": "Lab4_SOLID\\ReportManagement\\GenerateReport.cs",
+              "ToolTip": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\ReportManagement\\GenerateReport.cs",
+              "RelativeToolTip": "Lab4_SOLID\\ReportManagement\\GenerateReport.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:59:41.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\BookManagement\\BookService.cs",
+              "RelativeDocumentMoniker": "Lab4_SOLID\\BookManagement\\BookService.cs",
+              "ToolTip": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\BookManagement\\BookService.cs",
+              "RelativeToolTip": "Lab4_SOLID\\BookManagement\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:41:39.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\Interface\\IService.cs",
+              "RelativeDocumentMoniker": "Lab4_SOLID\\Interface\\IService.cs",
+              "ToolTip": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\Interface\\IService.cs",
+              "RelativeToolTip": "Lab4_SOLID\\Interface\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:50:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reader.cs",
+              "DocumentMoniker": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\ReaderManagement\\Reader.cs",
+              "RelativeDocumentMoniker": "Lab4_SOLID\\ReaderManagement\\Reader.cs",
+              "ToolTip": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\ReaderManagement\\Reader.cs",
+              "RelativeToolTip": "Lab4_SOLID\\ReaderManagement\\Reader.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAC0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T08:38:38.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\Program.cs",
+              "RelativeDocumentMoniker": "Lab4_SOLID\\Program.cs",
+              "ToolTip": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\Program.cs",
+              "RelativeToolTip": "Lab4_SOLID\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:23:17.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\BookManagement\\Book.cs",
+              "RelativeDocumentMoniker": "Lab4_SOLID\\BookManagement\\Book.cs",
+              "ToolTip": "C:\\Users\\vygir\\source\\repos\\Lab4_SOLID\\Lab4_SOLID\\BookManagement\\Book.cs",
+              "RelativeToolTip": "Lab4_SOLID\\BookManagement\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-15T06:34:43.241Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

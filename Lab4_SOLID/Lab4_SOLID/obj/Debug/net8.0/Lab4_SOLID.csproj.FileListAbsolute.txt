@@ -1,0 +1,14 @@
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\bin\Debug\net8.0\Lab4_SOLID.exe
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\bin\Debug\net8.0\Lab4_SOLID.deps.json
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\bin\Debug\net8.0\Lab4_SOLID.runtimeconfig.json
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\bin\Debug\net8.0\Lab4_SOLID.dll
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\bin\Debug\net8.0\Lab4_SOLID.pdb
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\obj\Debug\net8.0\Lab4_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\obj\Debug\net8.0\Lab4_SOLID.AssemblyInfoInputs.cache
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\obj\Debug\net8.0\Lab4_SOLID.AssemblyInfo.cs
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\obj\Debug\net8.0\Lab4_SOLID.csproj.CoreCompileInputs.cache
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\obj\Debug\net8.0\Lab4_SOLID.dll
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\obj\Debug\net8.0\refint\Lab4_SOLID.dll
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\obj\Debug\net8.0\Lab4_SOLID.pdb
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\obj\Debug\net8.0\Lab4_SOLID.genruntimeconfig.cache
+C:\Users\vygir\source\repos\Lab4_SOLID\Lab4_SOLID\obj\Debug\net8.0\ref\Lab4_SOLID.dll
